@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá, Eu sou o Gabriel!<br><br>🎓 Atualmente sou estudante de Sistemas para Internet na Fatec.<br><br>💻 Tenho experiência em:<br><br>JavaScript<br>React<br>PHP<br><br>📚 Atualmente estou estudando:<br><br>GoLang<br>Salesforce (Apex)<br><br>🚀 Estou sempre em busca de novos desafios e oportunidades.
+👋 Hi, I'm Gabriel!<br><br>🎓 I'm currently a student of Internet Systems at Fatec.<br><br>💻 I have experience in:<br><br>JavaScript<br>React<br>PHP<br><br>📚 Atualmente estou estudando:<br><br>GoLang<br>Salesforce (Apex)<br><br>🚀 I'm always looking for new challenges and experiences.
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ghsaraiva&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
