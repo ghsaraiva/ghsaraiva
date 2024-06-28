@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Gabriel!<br><br>🎓 I'm currently a student of Internet Systems at Fatec.<br><br>💻 I have experience in:<br><br>JavaScript<br>React<br>PHP<br><br>📚  I'm currently studying:<br><br>GoLang<br>Salesforce (Apex)<br><br>🚀 I'm always looking for new challenges and experiences.
+👋 Hi, I'm Gabriel!<br><br>🎓 I'm currently a student at Fatec.<br><br>💻 I have experience in:<br><br>JavaScript<br>React<br>PHP<br><br>📚  I'm currently studying:<br><br>GoLang<br>Salesforce (Apex)<br><br>🚀 I'm always looking for new challenges and experiences.
 
 
 ## 🌐 Socials:
