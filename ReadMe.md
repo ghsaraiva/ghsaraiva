@@ -1,6 +1,4 @@
-# 💫 About Me:
-👋 Hi, I'm Gabriel!<br><br>🎓 I'm currently a student at Fatec.<br><br>💻 I have experience in:<br><br>JavaScript<br>TypeScript<br>React<br><br>🚀 I'm always looking for new challenges and experiences.
-
+Hi, I'm Gabriel!<br><br>JavaScript<br>TypeScript<br>React<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-herrera-saraiva/) 
