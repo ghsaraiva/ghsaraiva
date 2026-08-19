@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Gabriel Herrera 👋</h1>
+  <h1>Hi, I'm Gabriel Herrera </h1>
   <p><strong>Fullstack Developer | React • Node.js • TypeScript</strong></p>
   
   <p>
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
